@@ -19,4 +19,4 @@
 
 </div>
 <br>
-um estudante de programação, apaixonado por tecnologia, indagador, e também extremamente curioso :)
+um Desenvolvedor JR, apaixonado por tecnologia, indagador, e também extremamente curioso :)
