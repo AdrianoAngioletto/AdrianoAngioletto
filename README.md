@@ -19,4 +19,4 @@
 
 </div>
 <br>
-Desenvolvedor Full Stack com experiência em PHP, JavaScript, Python e SQL, com foco em linguagens declarativas e orientadas a objetos. Atuo no desenvolvimento web utilizando arquiteturas monolítica, híbrida e microserviços, além de possuir expertise na criação e integração de APIs REST. Tenho sólidos conhecimentos em bancos de dados, otimização de performance e boas práticas de desenvolvimento, sempre buscando soluções eficientes e escaláveis.
+Full Stack Developer with experience in PHP, JavaScript, Python and SQL, with a focus on declarative and object-oriented languages. I work in web development using monolithic, hybrid and microservices architectures, in addition to having expertise in the creation and integration of REST APIs. I have solid knowledge in databases, performance optimization and good development practices, always seeking efficient and scalable solutions.
