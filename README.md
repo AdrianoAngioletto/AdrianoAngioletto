@@ -19,4 +19,4 @@
 
 </div>
 <br>
-um Desenvolvedor JR, apaixonado por tecnologia, indagador, e também extremamente curioso :)
+Desenvolvedor Full Stack com experiência em PHP, JavaScript, Python e SQL, com foco em linguagens declarativas e orientadas a objetos. Atuo no desenvolvimento web utilizando arquiteturas monolítica, híbrida e microserviços, além de possuir expertise na criação e integração de APIs REST. Tenho sólidos conhecimentos em bancos de dados, otimização de performance e boas práticas de desenvolvimento, sempre buscando soluções eficientes e escaláveis.
