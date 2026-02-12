@@ -7,7 +7,6 @@
 
 # Technologies I use daily!
 
-🚀 **Lead Developer** of the [XGuardian Platform](https://shield.xguardianplatform.io/), an intelligent security system for digital environments.
 
 <div style="display: inline_block">
      <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
